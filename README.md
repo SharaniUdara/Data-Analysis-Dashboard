@@ -77,6 +77,21 @@ Key visuals:
  - Supplier stock availability
  - Profit margin vs defect rate by supplier
 
+## Process
+    1. Data Cleaning
+        ◦ Checked dataset for missing values and inconsistencies.
+        ◦ Standardized data types such as dates, numeric values, and categories.
+    2. Data Transformation
+        ◦ Processed the data using Power Query in Power BI.
+        ◦ Created calculated columns and measures using DAX.
+    3. Data Modeling
+        ◦ Established relationships between product, supplier, and logistics data tables.
+    4. Visualization
+        ◦ Built interactive charts, KPI cards, and scatter plots.
+        ◦ Added slicers for SKU and Supplier to allow dynamic filtering.
+    5. Dashboard Design
+        ◦ Created a multi-page interactive dashboard including Overview, Product Insights, and Supplier Insights.
+
 
 
 
