@@ -43,11 +43,19 @@ The Power BI dashboard includes three main report pages:
 ### Overview Dashboard
 Shows high-level supply chain performance including:
 
-      - Total Revenue: $578K
-      - Total Products Sold: 46K
-      - Total Cost: 58K
-      - Average Profit Margin: 86%
-      - Stock Level: 5K
+ - Total Revenue: $578K
+ - Total Products Sold: 46K
+ - Total Cost: 58K
+ - Average Profit Margin: 86%
+ - Stock Level: 5K
+      
+Key visualizations include:
+  - Revenue by product type
+  - Revenue by shipping carriers
+  - Revenue by customer demographics
+  - Defect rates by product type
+  - Top SKUs by revenue
+  - Supplier profit margin comparison
 
 
 
