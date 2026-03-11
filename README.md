@@ -6,6 +6,12 @@ Developed a Power BI project by creating multiple interactive dashboards and tab
 The goal of this project is to develop an interactive Supply Chain Performance Dashboard for 2025 using Power BI. The dashboard helps analyze key operational metrics such as revenue, product sales, supplier performance, stock levels, lead times, and transportation costs.
 This enables business managers to monitor supply chain efficiency, identify operational issues, and make data-driven decisions to improve logistics, supplier management, and product performance in future operations.
 
+## Dataset used
+
+-<a href= https://github.com/SharaniUdara/Data-Analysis-Dashboard/blob/main/supply_chain_data%20(1).csv
+
+
+
 
 
 
