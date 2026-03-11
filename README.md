@@ -57,6 +57,27 @@ Key visualizations include:
   - Top SKUs by revenue
   - Supplier profit margin comparison
 
+## Product Insight Dashboard
+Focuses on product-level supply chain performance
+Key visuals:
+
+ - Order quantities by SKU
+ - Stock levels by SKU
+ - Lead time vs manufacturing lead time
+ - Profit margin distribution by product category
+ - Relationship between price and total product sold
+
+## Supplier Insight Dashboard
+Analyzes supplier and logistics performance
+Key visuals:
+
+ - Transportation cost by mode (Road, Rail, Air, Sea)
+ - Defect rates by transportation modes
+ - Supplier cost analysis
+ - Supplier stock availability
+ - Profit margin vs defect rate by supplier
+
+
 
 
 
