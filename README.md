@@ -78,19 +78,11 @@ Key visuals:
  - Profit margin vs defect rate by supplier
 
 ## Process
-   # Data Cleaning
-       - Checked dataset for missing values and inconsistencies.
-       - Standardized data types such as dates, numeric values, and categories.
-   # Data Transformation
-       - Processed the data using Power Query in Power BI.
-       - Created calculated columns and measures using DAX.
-   # Data Modeling
-       - Established relationships between product, supplier, and logistics data tables.
-   # Visualization
-       - Built interactive charts, KPI cards, and scatter plots.
-       - Added slicers for SKU and Supplier to allow dynamic filtering.
-   # Dashboard Design
-       - Created a multi-page interactive dashboard including Overview, Product Insights, and Supplier Insights.
+- Verified the dataset for missing values, duplicates, and anomalies, and resolved any data quality issues.
+- Cleaned and standardized the data by ensuring consistent data types, formats, and values.
+- Transformed and prepared the data using Power Query for analysis.
+- Created necessary calculations and measures to answer key business questions.
+- Developed interactive visualizations and combined them into a dynamic Power BI dashboard with slicers for filtering.
 
 
 
