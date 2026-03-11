@@ -12,16 +12,16 @@ This enables business managers to monitor supply chain efficiency, identify oper
 
 ## Key Performance Indicators (KPIs)
 
-Total Revenue
-Total Products Sold
-Total Supply Chain Cost
-Average Profit Margin
-Total Stock Level
-Order Quantities
-Lead Time & Manufacturing Lead Time
-Defect Rate by Product Type
-Supplier Performance
-Transportation Cost by Mode
+-Total Revenue
+-Total Products Sold
+-Total Supply Chain Cost
+-Average Profit Margin
+-Total Stock Level
+-Order Quantities
+-Lead Time & Manufacturing Lead Time
+-Defect Rate by Product Type
+-Supplier Performance
+-Transportation Cost by Mode
 
 
 
