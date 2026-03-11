@@ -4,13 +4,16 @@ Developed a Power BI project by creating multiple interactive dashboards and tab
 #Supply Chain Data Analysis – 2025 (Interactive Dashboard using Power BI)
 
 ##Project Objective
+
 The goal of this project is to develop an interactive Supply Chain Performance Dashboard for 2025 using Power BI. The dashboard helps analyze key operational metrics such as revenue, product sales, supplier performance, stock levels, lead times, and transportation costs.
 This enables business managers to monitor supply chain efficiency, identify operational issues, and make data-driven decisions to improve logistics, supplier management, and product performance in future operations.
 
 ##Dataset Used 
+
 -<a href= https://github.com/SharaniUdara/Data-Analysis-Dashboard/blob/main/supply_chain_data%20(1).csv
 
 ##Key Performance Indicators (KPIs)
+
     • Total Revenue
     • Total Products Sold
     • Total Supply Chain Cost
@@ -23,6 +26,7 @@ This enables business managers to monitor supply chain efficiency, identify oper
     • Transportation Cost by Mode
     
 ##Business Questions Answered
+
     1. What is the total revenue generated from supply chain operations?
     2. Which product types generate the highest revenue?
     3. Which shipping carriers contribute the most revenue?
@@ -35,6 +39,7 @@ This enables business managers to monitor supply chain efficiency, identify oper
     10. How do transportation modes impact costs and defect rates?
     
 ##Dashboard Interaction
+
 The Power BI dashboard includes three main report pages:
 1️⃣ Overview Dashboard
 Shows high-level supply chain performance including:
@@ -44,6 +49,7 @@ Shows high-level supply chain performance including:
     • Average Profit Margin: 86%
     • Stock Level: 5K
 Key visualizations include:
+
     • Revenue by product type
     • Revenue by shipping carriers
     • Revenue by customer demographics
@@ -52,6 +58,7 @@ Key visualizations include:
     • Supplier profit margin comparison
 
 2️⃣ Product Insight Dashboard
+
 Focuses on product-level supply chain performance
 Key visuals:
     • Order quantities by SKU
@@ -61,6 +68,7 @@ Key visuals:
     • Relationship between price and total product sold
 
 3️⃣ Supplier Insight Dashboard
+
 Analyzes supplier and logistics performance
 Key visuals:
     • Transportation cost by mode (Road, Rail, Air, Sea)
@@ -70,6 +78,7 @@ Key visuals:
     • Profit margin vs defect rate by supplier
     
 ##Process
+
     1. Data Cleaning
         ◦ Checked dataset for missing values and inconsistencies.
         ◦ Standardized data types such as dates, numeric values, and categories.
@@ -89,6 +98,7 @@ Key visuals:
 
         
 ##Project Insights
+
     • Skincare products generate the highest revenue, followed by haircare and cosmetics.
     • Carrier B contributes the highest revenue among shipping carriers.
     • Some product categories show higher defect rates, indicating possible quality issues.
@@ -97,6 +107,7 @@ Key visuals:
     • Certain SKUs consistently generate higher sales and revenue, indicating strong product demand.
     
 ##Final Conclusion
+
 The Supply Chain Power BI Dashboard provides a comprehensive overview of product performance, supplier efficiency, and logistics operations.
 To improve overall supply chain performance, businesses should:
     • Focus on high-revenue product categories to maximize profitability.
