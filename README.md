@@ -84,6 +84,15 @@ Key visuals:
 - Created necessary calculations and measures to answer key business questions.
 - Developed interactive visualizations and combined them into a dynamic Power BI dashboard with slicers for filtering.
 
+## Project Insight
+
+- Skincare products generate the highest revenue, followed by haircare and cosmetics.
+- Carrier B contributes the highest revenue among shipping carriers.
+- Some product categories show higher defect rates, indicating possible quality issues.
+- Supplier performance varies, with some suppliers maintaining higher stock availability and profit margins.
+- Transportation mode impacts cost and defect rates, with road transport contributing the highest share of cost.
+- Certain SKUs consistently generate higher sales and revenue, indicating strong product demand.
+
 
 
 
