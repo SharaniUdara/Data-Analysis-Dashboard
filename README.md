@@ -38,6 +38,16 @@ This enables business managers to monitor supply chain efficiency, identify oper
 
 ## Dashboard Interaction
 
+The dashboard includes **three interactive report pages**:
+
+### 1️⃣ Overview Dashboard
+![Overview Dashboard](https://github.com/SharaniUdara/Data-Analysis-Dashboard/blob/main/Overview.png)
+
+### 2️⃣ Product Insights Dashboard
+![Product Insights Dashboard](https://github.com/SharaniUdara/Data-Analysis-Dashboard/blob/main/Product.png)
+
+### 3️⃣ Supplier Insights Dashboard
+![Supplier Insights Dashboard](https://github.com/SharaniUdara/Data-Analysis-Dashboard/blob/main/Supplier.png)
 
 
 
