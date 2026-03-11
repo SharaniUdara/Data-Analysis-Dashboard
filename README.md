@@ -36,6 +36,10 @@ This enables business managers to monitor supply chain efficiency, identify oper
 - What is the average lead time for product deliveries?
 - How do transportation modes impact costs and defect rates?
 
+## Dashboard Interaction
+
+The Power BI dashboard includes three main report pages:
+
 
 
 
