@@ -79,18 +79,18 @@ Key visuals:
 
 ## Process
    # Data Cleaning
-        ◦ Checked dataset for missing values and inconsistencies.
-        ◦ Standardized data types such as dates, numeric values, and categories.
+       - Checked dataset for missing values and inconsistencies.
+       - Standardized data types such as dates, numeric values, and categories.
    # Data Transformation
-        ◦ Processed the data using Power Query in Power BI.
-        ◦ Created calculated columns and measures using DAX.
+       - Processed the data using Power Query in Power BI.
+       - Created calculated columns and measures using DAX.
    # Data Modeling
-        ◦ Established relationships between product, supplier, and logistics data tables.
+       - Established relationships between product, supplier, and logistics data tables.
    # Visualization
-        ◦ Built interactive charts, KPI cards, and scatter plots.
-        ◦ Added slicers for SKU and Supplier to allow dynamic filtering.
+       - Built interactive charts, KPI cards, and scatter plots.
+       - Added slicers for SKU and Supplier to allow dynamic filtering.
    # Dashboard Design
-        ◦ Created a multi-page interactive dashboard including Overview, Product Insights, and Supplier Insights.
+       - Created a multi-page interactive dashboard including Overview, Product Insights, and Supplier Insights.
 
 
 
