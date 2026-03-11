@@ -12,16 +12,16 @@ This enables business managers to monitor supply chain efficiency, identify oper
 
 ## Key Performance Indicators (KPIs)
 
-- Compare the sales and orders using single chart.
-- Which month got the highest sales and orders?
-- Who purchased more - Men or Women?
-- What are different order status in 2022?
-- List top 10 states contributingto the sales?
-- Relation between age and gender based on number of orders.
-- Which Channel is contributing maximum to the sales?
-- Highest selling category?
-- Percentage of Total Orders delivered
-
+Total Revenue
+Total Products Sold
+Total Supply Chain Cost
+Average Profit Margin
+Total Stock Level
+Order Quantities
+Lead Time & Manufacturing Lead Time
+Defect Rate by Product Type
+Supplier Performance
+Transportation Cost by Mode
 
 
 
