@@ -38,7 +38,25 @@ This enables business managers to monitor supply chain efficiency, identify oper
 
 ## Dashboard Interaction
 
-[View Full Power BI Dashboard Report (PDF)][The Power BI dashboard includes three main report pages:](https://github.com/SharaniUdara/Data-Analysis-Dashboard/blob/main/Power%20Bi%20Dashboard.pdf)
+## Power BI Dashboard – 2025
+
+The dashboard includes **three interactive report pages**:
+
+---
+
+### 1️⃣ Overview Dashboard
+![Overview Dashboard](images/overview_dashboard.png)
+
+---
+
+### 2️⃣ Product Insights Dashboard
+![Product Insights Dashboard](images/product_insights_dashboard.png)
+
+---
+
+### 3️⃣ Supplier Insights Dashboard
+![Supplier Insights Dashboard](images/supplier_insights_dashboard.png)
+
 
 ### Overview Dashboard
 Shows high-level supply chain performance including:
