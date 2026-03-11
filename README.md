@@ -84,6 +84,9 @@ Key visuals:
 - Created necessary calculations and measures to answer key business questions.
 - Developed interactive visualizations and combined them into a dynamic Power BI dashboard with slicers for filtering.
 
+## Dashboard
+
+
 ## Project Insight
 
 - Skincare products generate the highest revenue, followed by haircare and cosmetics.
@@ -92,6 +95,23 @@ Key visuals:
 - Supplier performance varies, with some suppliers maintaining higher stock availability and profit margins.
 - Transportation mode impacts cost and defect rates, with road transport contributing the highest share of cost.
 - Certain SKUs consistently generate higher sales and revenue, indicating strong product demand.
+
+
+## Final Conclusion:
+
+The Supply Chain Power BI Dashboard provides a comprehensive overview of product performance, supplier efficiency, and logistics operations.
+To improve overall supply chain performance, businesses should:
+
+- Focus on high-revenue product categories to maximize profitability.
+- Optimize supplier selection based on profit margin and stock availability.
+- Monitor transportation modes and defect rates to reduce operational risks.
+- Use lead time analysis to improve delivery efficiency and inventory planning.
+
+
+By leveraging this dashboard, decision-makers can optimize supply chain operations, reduce costs, and enhance product availability for future growth.
+
+
+
 
 
 
